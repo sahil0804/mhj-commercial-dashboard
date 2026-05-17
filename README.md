@@ -47,6 +47,7 @@ Visualizes fulfillment bottlenecks across the physical boutique footprint and co
 | **Styling** | Custom CSS (Glassmorphism, Google Fonts) |
 
 ---
+## Visuals
 
 ## 🛠️ Local Installation & Setup
 
