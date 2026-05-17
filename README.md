@@ -6,7 +6,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Data%20Viz-3F4F75?logo=plotly&logoColor=white)
 
-> **Live Application:** [Click here to view the live executive dashboard](https://your-streamlit-link-here.streamlit.app/)
+> **Live Application:** [Click here to view the live executive dashboard]([https://your-streamlit-link-here.streamlit.app/](http://192.168.34.116:8502))
 
 ## 📌 Executive Summary
 This project is an end-to-end, cloud-deployed commercial intelligence platform designed to simulate a live executive reporting environment for Michael Hill International (MHJ). Moving beyond standard descriptive analytics, this hub integrates **Machine Learning (ML)** and **Natural Language Processing (NLP)** to provide predictive forecasting, autonomous customer segmentation, and real-time operational telemetry. 
